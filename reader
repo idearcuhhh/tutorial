@@ -1,1 +1,4 @@
+to start off ull need to call for all players ingame, u can do it like this:
+local Players = game:GetService("Players")
+so now that players is defined, you can use Players anywhere in your script to find player data, like rebs and stats.
 
